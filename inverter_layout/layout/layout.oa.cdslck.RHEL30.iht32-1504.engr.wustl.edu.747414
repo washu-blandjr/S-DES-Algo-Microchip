@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      b.carmen
+HostName                       iht32-1504.engr.wustl.edu
+ProcessIdentifier              747414
+ProcessCreationTime_UTC        1709945033
+ProcessCreationTime_Readable   Fri Mar  8 18:43:53 2024 CST
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /home/warehouse/b.carmen/cadence/Libraries/CSE463#2dCSE563#2dSP24/inverter_layout/layout/layout.oa.cdslck
+TimeEditLocked                 Fri Mar  8 23:18:49 2024 CST
