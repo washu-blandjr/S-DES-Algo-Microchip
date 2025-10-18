@@ -31,8 +31,7 @@ in 0.6μm CMOS process. Designed for 10 MHz operation with 40-pin interface.
 - Python-based functional verification suite
 
 ## Tools
-- Cadence Virtuoso (Schematic Capture, Layout, Simulation)
-- Cadence Assura (DRC/LVS verification)
+- Cadence Virtuoso (Schematic Capture, Layout, DRC/LVS verification, Simulation)
 - Python (verification scripting)
 
 ## NOTE
